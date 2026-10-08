@@ -2,7 +2,7 @@
 a temp repo for visualizing edits to nma schedules
 
 ## Modified Schedules:
-* [Spring 2027](https://johndoenma.github.io/202730-With-ID-Updates/index.html)
+* [Spring 2027](https://johndoenma.github.io/nma-schedule-pages-edits/202730-With-ID-Updates/index.html)
 
 ## Log/updates
 * Tue Oct 8 2026
